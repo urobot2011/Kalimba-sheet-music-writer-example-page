@@ -33,8 +33,7 @@
 						<li class="nav-item" id="lesson_stepnumber"></li>
 						<li class="nav-item" id="lesson_step"></li>
 					</ul> Tempo: <span id="tempo-display"></span> bpm <br />
-					<input type="range" onchange="Player.setTempo(this.value);document.getElementById('tempo-display').innerHTML = this.value;" class="tempo" min="10" max="200">
-					<!-- form-range-->
+					<input type="range" class="tempo" min="10" max="200"><!-- form-range onchange="Player.setTempo(this.value);document.getElementById('tempo-display').innerHTML = this.value;" -->
 				</div>
 			</div>
 		</nav>
