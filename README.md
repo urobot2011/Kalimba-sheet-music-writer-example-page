@@ -9,3 +9,5 @@
 [V1.0.1 Example page](https://urobot2011.github.io/Kalimba-sheet-music-writer-example-page/V1.0.1/ "V1.0.1 Example page")
 ### V1.0.2 Example page
 [V1.0.2 Example page](https://urobot2011.github.io/Kalimba-sheet-music-writer-example-page/V1.0.2/ "V1.0.2 Example page")
+### V1.0.3 Example page
+[V1.0.3 Example page](https://urobot2011.github.io/Kalimba-sheet-music-writer-example-page/V1.0.3/ "V1.0.3 Example page")
